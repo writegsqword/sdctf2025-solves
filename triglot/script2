@@ -1,0 +1,4 @@
+q=1
+1 // (lambda: print(open("flag.txt", "r").read()) or 1)()
+lambda: this['console']['log'](this['fs']('./flag.txt')) 
+1 // 1 #a =  

@@ -1,0 +1,16 @@
+q=1
+1 // 1 +"""/*
+1 // 1 =;
+open(F,"flag.txt")||die$!; print while <F>; print "\n";
+
+q=1
+""" #*/
+1 // 1 #=;
+q=1
+1 // (lambda: print(open("flag.txt", "r").read()) or 1)()
+lambda: console.log(require('fs').readFileSync('flag.txt', 'utf8')) 
+1 // 1 #=;
+
+
+
+
